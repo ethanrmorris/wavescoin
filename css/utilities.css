@@ -38,7 +38,7 @@
 .bg-primary,
 .btn-primary {
   background-color: var(--accent-color);
-  color: var(--primary-colore);
+  color: var(--primary-color);
 }
 
 .bg-secondary,
@@ -99,28 +99,6 @@
 
 .text-center {
   text-align: center;
-}
-
-/* Alert */
-.alert {
-  background-color: var(--light-color);
-  padding: 10px 20px;
-  font-weight: bold;
-  margin: 15px 0;
-}
-
-.alert i {
-  margin-right: 10px;
-}
-
-.alert-success {
-  background-color: var(--success-color);
-  color: #fff;
-}
-
-.alert-error {
-  background-color: var(--error-color);
-  color: #fff;
 }
 
 .flex {
